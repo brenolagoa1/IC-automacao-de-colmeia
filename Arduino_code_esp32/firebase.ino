@@ -29,10 +29,10 @@ String nivel = "/nivel";
 String tempo = "/tempo";
 
 
-#define WIFI_SSID "Breno_2.4g"
-#define WIFI_PASSWORD "alexandra1901"
-#define DATABASE_URL "bees-central-default-rtdb.firebaseio.com"
-#define API_KEY "AIzaSyAIBdqdTdM10eTcVfuPGzZSk56RMsvk68E"
+#define WIFI_SSID "nome_rede"
+#define WIFI_PASSWORD "senha"
+#define DATABASE_URL xyzajbcbciadbi.firebaseio.com"
+#define API_KEY "AIzaSyAIBdqdTiuyudyacbuazZSk56RMsvk68E"
 
 FirebaseData firebaseData;
 FirebaseAuth auth;
